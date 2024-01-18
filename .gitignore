@@ -1,0 +1,37 @@
+# 자동 생성 파일
+.ipynb_checkpoints/
+**/.ipynb_checkpoints
+**/__pycache__/
+
+# 빈 디렉토리 관리
+**data/**
+**project/data/**
+**project/model/learning_result/**
+**project/model/weights/**
+
+# gitkeep 파일
+!data/.gitkeep
+!project/model/weights/.gitkeep
+!project/model/learning_result/.gitkeep
+!project/data/.gitkeep
+
+# 데이터 관련
+**/clean_rating_data/
+**/visualization_result/
+**/ensemble_result/
+
+# 데이터 업로드 제한
+*.png
+*.jpg
+*.jpeg
+*.wpt
+*.pt
+*.txt
+*.json
+
+!soclean-3e797-firebase-adminsdk-xth93-32fd73808c.json
+!requirements.txt
+
+errorLog/
+results/
+data/

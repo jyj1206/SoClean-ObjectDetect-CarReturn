@@ -1,0 +1,15 @@
+# 빈 디렉토리 관리
+data/**
+
+# gitkeep 파일
+!data/.gitkeep
+
+# 데이터 관련
+runs/
+
+# 모델 파일
+yolov8n.pt
+yolov8s.pt
+yolov8m.pt
+yolov8l.pt
+yolov8x.pt
