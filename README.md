@@ -1,11 +1,11 @@
  
 # 카셰어링 깨끗 반납 인증 서비스
 
-> 허지은(팀장) : [https://github.com/Heo-jieun](https://github.com/Heo-jieun) <br>
-> 박지성 : [https://github.com/jisungbb](https://github.com/jisungbb) <br>
-> 임근웅 : [https://github.com/woongs9](https://github.com/woongs9) <br>
-> 정영진 : [https://github.com/jyj1206](https://github.com/jyj1206) <br>
-> 개발기간 : 2023.11.28 ~ 2024.01.17  
+> + 허지은(팀장) : [https://github.com/Heo-jieun](https://github.com/Heo-jieun)
+> + 박지성 : [https://github.com/jisungbb](https://github.com/jisungbb)
+> + 임근웅 : [https://github.com/woongs9](https://github.com/woongs9)
+> + 정영진 : [https://github.com/jyj1206](https://github.com/jyj1206)
+> + 개발기간 : 2023.11.28 ~ 2024.01.17  
 
 <div align="center">
   <img width="940" alt="mobile" src="https://github.com/AIFFEL-SO-4th/SoClean/assets/65994153/4a5e7311-b1da-4929-8996-d78bb3ef514f">
