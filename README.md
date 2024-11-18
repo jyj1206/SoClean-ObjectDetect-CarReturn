@@ -7,17 +7,15 @@
 > + 정영진 : [https://github.com/jyj1206](https://github.com/jyj1206)
 > + 개발기간 : 2023.11.28 ~ 2024.01.17  
 
-<div align="center">
-  <img width="940" alt="mobile" src="https://github.com/AIFFEL-SO-4th/SoClean/assets/65994153/4a5e7311-b1da-4929-8996-d78bb3ef514f">
-</div>
+
+<img width="940" alt="mobile" src="https://github.com/AIFFEL-SO-4th/SoClean/assets/65994153/4a5e7311-b1da-4929-8996-d78bb3ef514f">
 
 <br>
 
-## Introduction 
+## Introduction
 
 **깨끗 반납 인증은 카셰어링을 사용하는 모든 사람들이 깨끗한 차를 사용할 수 있도록, 반납시 차량 청소를 장려하는 서비스입니다.** 
-
-![service](https://github.com/AIFFEL-SO-4th/SoClean/assets/65994153/4859f2d3-98e9-4dc1-817f-cc76a8746f8a)
+<img width="974" alt="model" src="https://github.com/user-attachments/assets/1d86f1c1-df0c-49e1-b9ae-1b9e89411c77">
 사용자가 차량을 반납하기 전 차량 내부를 청소하고 깨끗하게 반납하는 것을 인증하면 크레딧을 제공합니다.
 
 **깨끗 반납 인증은 카셰어링 사용자에게 쾌적한 주행 서비스를 제공할 수 있습니다.**
@@ -28,13 +26,11 @@
 3. 업체 측은 사용자가 보낸 사진으로 차량 내부의 청결도를 파악하기 쉬움.  
 <br>  
 
-
-
 ## 내부 청결도 측정 모델
 
 **깨끗반납 인증 서비스를 위한 내부 청결도 측정 모델**   
 <br>
-<img width="974" alt="model" src="https://github.com/AIFFEL-SO-4th/SoClean/assets/65994153/bb3dce75-5480-495c-8419-87ecff8f12be">
+<img width="974" alt="model" src="https://github.com/user-attachments/assets/3a3d5833-df22-4434-bc12-0734be053bd0">
 <br>
 내부 청결도 측정 모델은 사용자로부터 운전석 매트, 조수석 매트, 컵홀더, 뒷자석 사진을 받아 아래 프로세스를 따릅니다.
 1. Rejection 모델로 분류가 애매한 이미지들을 1차로 정제.
@@ -43,9 +39,10 @@
 4. 최종적으로 4장의 사진을 종합하여 해당 차가 깨끗한 차인가를 분류.  
 <br>
 
+
 ## 모델 추론 프로세스
 
-![process](https://github.com/AIFFEL-SO-4th/SoClean/assets/65994153/8f7b3e26-d473-40ea-b1b7-b8da1d5ac6da)  
+<img width="974" alt="model" src="https://github.com/user-attachments/assets/d929ec82-eeb7-4a51-a51b-7a6266ac7a6b">
 <br>
 
 우리의 전체 추론 파이프라인은 크게 3 단계로 진행됩니다.
