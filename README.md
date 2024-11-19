@@ -7,8 +7,7 @@
 > + 정영진 : [https://github.com/jyj1206](https://github.com/jyj1206)
 > + 개발기간 : 2023.11.28 ~ 2024.01.17  
 
-
-<img width="940" alt="mobile" src="https://github.com/AIFFEL-SO-4th/SoClean/assets/65994153/4a5e7311-b1da-4929-8996-d78bb3ef514f">
+<img width="974" alt="model" src="https://github.com/user-attachments/assets/bb018afb-26be-4c1e-9e54-7746c7507316">
 
 <br>
 
